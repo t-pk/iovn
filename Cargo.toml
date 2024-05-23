@@ -3,5 +3,12 @@ name = "iovn"
 version = "0.1.0"
 edition = "2021"
 
+description = "this is iovn"
+license = "Apache-2.0"
+authors = ["Tai Pham <pktai.iot@gmail.com>"]
+copyright = "Tai Pham, 2024"
+
 [dependencies]
 crossterm = "0.27.0"
+druid = "0.8.3"
+im = "15.1.0"
